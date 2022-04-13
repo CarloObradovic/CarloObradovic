@@ -16,7 +16,7 @@
 <b>Spol:</b> Muško 
 </li>
 <li>
-<b>Voli:</b> Front-End web development, Igrice
+<b>Voli:</b> Front-End web development, Back-End development, programiranje u C jeziku
 </li>
 <br>
 
