@@ -30,9 +30,6 @@
  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img 
 </p>
 <br>
-<h2 align="center">Contact me (>人<)</h2>
-<br>
-<a href="https://discord.com" target="_blank"><img src="https://img.shields.io/discord/OMEGA%E2%9C%93%E1%B5%9B%E1%B5%89%CA%B3%E1%B6%A6%E1%B6%A0%E1%B6%A6%E1%B5%89%E1%B5%88#0752?style=plastic"/></a></p>
 </div>
 <br>
 <div>
