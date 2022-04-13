@@ -32,7 +32,7 @@
 <br>
 <h2 align="center">Contact me (>人<)</h2>
 <br>
-
+<a href="https://discord.com" target="_blank"><img src="https://img.shields.io/discord/OMEGA%E2%9C%93%E1%B5%9B%E1%B5%89%CA%B3%E1%B6%A6%E1%B6%A0%E1%B6%A6%E1%B5%89%E1%B5%88#0752?style=plastic"/></a></p>
 </div>
 <br>
 <div>
