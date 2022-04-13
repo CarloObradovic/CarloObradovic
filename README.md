@@ -2,7 +2,7 @@
 <h1 align="center">Dobrodošli! (づ｡◕‿‿◕｡)づ</h1>
 <br>
 <div align="center">
-<img src="https://media4.giphy.com/media/a6pzK009rlCak/giphy.gif">
+<img src="https://giphy.com/gifs/kawaii-chuunibyou-shitai-KuRbQrfkw9yco">
 </div>
 <br>
 <div>
