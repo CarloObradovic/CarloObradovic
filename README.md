@@ -2,21 +2,21 @@
 <h1 align="center">Dobrodošli! (づ｡◕‿‿◕｡)づ</h1>
 <br>
 <div align="center">
-<img src="https://media4.giphy.com/media/a6pzK009rlCak/giphy.gif">
+<img src="https://giphy.com/gifs/kawaii-chuunibyou-shitai-KuRbQrfkw9yco">
 </div>
 <br>
 <div>
-<h2 align="center">About me (~˘▾˘)~</h2>
+<h2 align="center">O meni (~˘▾˘)~</h2>
 <li>
-<b>Name:</b> Nguyen Vu</li>
+<b>Ime:</b> Carlo Obradović</li>
 <li>
-<b>Hobbies:</b> Gaming, Coding, anime
+<b>Hobiji:</b> Igrice, Kodiranje, Anime
 </li>
 <li>
-<b>Sex:</b> Male 
+<b>Spol:</b> Muško 
 </li>
 <li>
-<b>Loves:</b> Web/Mobile Development.
+<b>Voli:</b> Front-End web development, Igrice
 </li>
 <br>
 
