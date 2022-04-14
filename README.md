@@ -13,7 +13,7 @@
 <b>Hobiji:</b> Igrice, Kodiranje, Anime
 </li>
 <li>
-<b>Spol:</b> Muško 
+<b>Spol:</b> Male 
 </li>
 <li>
 <b>Voli:</b> Front-End web development, Back-End development, programiranje u C jeziku
