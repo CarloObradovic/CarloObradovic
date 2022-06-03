@@ -21,7 +21,7 @@
 <br>
 
 <div>
-<img src="https://media.tenor.com/images/ae1050b1da911d4b656ca3179231e15b/tenor.gif" align="center">
+<img src="<iframe src="https://giphy.com/embed/l0HlNBL6dCxsvDLUY" width="480" height="338" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/southparkgifs-l0HlNBL6dCxsvDLUY">via GIPHY</a></p>" align="center">
 <h2 align="center">Znanje ᕦ(ò_óˇ)ᕤ</h2>
 <p>
 </div>
