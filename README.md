@@ -34,7 +34,7 @@
 <div>
 <h2 align="center">Hvala na čitanju (ღ˘⌣˘ღ)</h2>
 <div align="center">
-<img align="center" src="https://media.giphy.com/media/rPQaG7o8uqMzS/giphy.gif">
+<img align="center" src="https://media.tenor.com/images/801ba9bf835fa3d638ee4c5428717b0b/tenor.gif">
 </div>
 <hr>
 </div>
