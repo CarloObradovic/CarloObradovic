@@ -21,7 +21,7 @@
 <br>
 
 <div>
-<img src="[https://66.media.tumblr.com/245f9e5d2312e4ac1cc5dc5b942cbfdc/tumblr_ordg8luJFV1w5hoy5o2_250.gifv](https://media.tenor.com/images/029141b080312d45eda58155550a0c07/tenor.gif)" align="center">
+<img src="https://media.tenor.com/images/029141b080312d45eda58155550a0c07/tenor.gif"  align="center">
 <h2 align="center">Znanje ᕦ(ò_óˇ)ᕤ</h2>
 <p>
 </div>
