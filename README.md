@@ -21,7 +21,7 @@
 <br>
 
 <div>
-<img src="https://media2.giphy.com/media/7hW7hXXri33NK/giphy.gif" align="right">
+<img src="https://media.tenor.com/images/ae1050b1da911d4b656ca3179231e15b/tenor.gif" align="right">
 <h2 align="center">Znanje ᕦ(ò_óˇ)ᕤ</h2>
 <p>
 </div>
