@@ -2,7 +2,7 @@
 <h1 align="center">Dobrodošli! (づ｡◕‿‿◕｡)づ</h1>
 <br>
 <div align="center">
-<img src="https://media4.giphy.com/media/a6pzK009rlCak/giphy.gif">
+<img src="https://66.media.tumblr.com/245f9e5d2312e4ac1cc5dc5b942cbfdc/tumblr_ordg8luJFV1w5hoy5o2_250.gifv">
 </div>
 <br>
 <div>
